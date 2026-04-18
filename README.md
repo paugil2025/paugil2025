@@ -1,4 +1,4 @@
-<h2 align="center">Hi 👋! My name is Pau and I'm a Full Stack from Barcelona 🟦🟥</h2>
+<h2 align="center">Hi 👋! My name is Pau - Full Stack </h2>
 
 <p align="center">
   🚀 <b>Passionate about building interactive, modern, and scalable web apps.</b><br>
