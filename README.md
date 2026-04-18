@@ -9,8 +9,12 @@
 ###
 
 <div align="center">
-  <img src="https://img.shields.io/badge/Arch%20Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white" />
-  <img src="https://img.shields.io/badge/Proxmox-E57024?style=for-the-badge&logo=proxmox&logoColor=white" />
+  <a href="https://archlinux.org/" target="_blank">
+    <img src="https://img.shields.io/badge/Arch%20Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white" alt="Arch Linux" />
+  </a>
+  <a href="https://www.proxmox.com/" target="_blank">
+    <img src="https://img.shields.io/badge/Proxmox-E57024?style=for-the-badge&logo=proxmox&logoColor=white" alt="Proxmox" />
+  </a>
 </div>
 
 ###
