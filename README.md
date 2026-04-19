@@ -77,12 +77,15 @@
 <h3 align="center">🏠 Self-Hosted & Tech Stack:</h3>
 
 <div align="center">
+  <img src="https://img.shields.io/badge/Immich-%238387F5.svg?style=for-the-badge&logo=immich&logoColor=white" alt="Immich" />
+  <img src="https://img.shields.io/badge/Tailscale-%235433FF.svg?style=for-the-badge&logo=tailscale&logoColor=white" alt="Tailscale" />
+  <img src="https://img.shields.io/badge/AdGuard-%2361BB46.svg?style=for-the-badge&logo=adguard&logoColor=white" alt="AdGuard" />
   <img src="https://img.shields.io/badge/jellyfin-%23000B25.svg?style=for-the-badge&logo=Jellyfin&logoColor=00A4DC" alt="Jellyfin" />
   <img src="https://img.shields.io/badge/bitwarden-%23175DDC.svg?style=for-the-badge&logo=bitwarden&logoColor=white" alt="Bitwarden" />
   <img src="https://img.shields.io/badge/plex-%23E5A00D.svg?style=for-the-badge&logo=plex&logoColor=white" alt="Plex" />
+  <img src="https://img.shields.io/badge/wireguard-%2388171A.svg?style=for-the-badge&logo=wireguard&logoColor=white" alt="Wireguard" />
   <img src="https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white" alt="Notion" />
   <img src="https://img.shields.io/badge/cisco-%23049fd9.svg?style=for-the-badge&logo=cisco&logoColor=white" alt="Cisco" />
-  <img src="https://img.shields.io/badge/wireguard-%2388171A.svg?style=for-the-badge&logo=wireguard&logoColor=white" alt="Wireguard" />
   <img src="https://img.shields.io/badge/Prezi-%23000000.svg?style=for-the-badge&logo=Prezi&logoColor=white" alt="Prezi" />
 </div>
 
