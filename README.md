@@ -90,8 +90,6 @@
   
 ###
 
-<br clear="both">
-
 <p align="center">
   <img src="https://raw.githubusercontent.com/paugil2025/paugil2025/output/snake.svg" alt="Snake animation" />
 </p>
