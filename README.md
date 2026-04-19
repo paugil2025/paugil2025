@@ -72,7 +72,7 @@
   <a href="https://www.arduino.cc/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" height="40" alt="arduino" /> </a>
   <a href="https://www.notion.so/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/notion/notion-original.svg" height="40" alt="notion" /> </a>
   <a href="https://www.cisco.com/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/6/64/Cisco_logo.svg" height="40" alt="cisco" /> </a>
-  <a href="https://www.wireshark.org/" target="_blank"> <img src="[https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/wireshark.svg](https://avatars.githubusercontent.com/u/6233056?s=48&v=4)" height="40" alt="wireshark" /> </a>
+  <a href="https://www.wireshark.org/" target="_blank"> <img src="https://avatars.githubusercontent.com/u/6233056?s=48&v=4" height="40" alt="wireshark" /> </a>
 </div>
 
 ###
